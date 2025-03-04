@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="flex flex-col items-center justify-center linear">
+    <header className="flex flex-col items-center justify-center linear ">
       <span className="text-transparent bg-[linear-gradient(to_right,var(--text-color),var(--accent-color))] bg-clip-text text-[2.8rem] tracking-[1px]">
         Focus Flow
       </span>
