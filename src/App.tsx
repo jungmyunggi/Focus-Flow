@@ -1,13 +1,7 @@
 import "./App.css";
-
+import MainPage from "./pages/MainPage";
 function App() {
-  return (
-    <>
-      <p className="text-primary">Focus Flow</p>
-      <p className="text-secondary">test</p>
-      <p className="text-accent">test</p>
-    </>
-  );
+  return <MainPage />;
 }
 
 export default App;
