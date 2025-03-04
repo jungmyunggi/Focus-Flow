@@ -5,6 +5,11 @@
   --main-white: #ffffff;
 
   --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  --primary-color: #2a3b4c;
+  --secondary-color: #4a6d8c;
+  --accent-color: #63c5da;
+  --text-color: #e0e7ee;
+  --dark-color: #1a232e;
 }
 
 * {
